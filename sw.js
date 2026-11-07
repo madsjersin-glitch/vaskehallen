@@ -1,6 +1,6 @@
 // Vaskehallen service worker: keeps the game playable offline.
 // Bump VERSION whenever index.html or the icons change, so phones pick up the new build.
-const VERSION = 'vaskehallen-v1';
+const VERSION = 'vaskehallen-v2';
 const CORE = [
   './',
   './index.html',

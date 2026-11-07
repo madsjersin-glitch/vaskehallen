@@ -5,7 +5,8 @@ Et vaskehal-spil til mobilen. Bilen kører ind dækket af grene, blade og mudder
 1. **Saks** – klip grenene af ved de stiplede mærker
 2. **Luft** – blæs bladene væk
 3. **Vand** – spul mudderet af
-4. **Skum** – vask skummet af
+4. **Børste** – skrub fugleklatterne væk med hurtige swipes frem og tilbage
+5. **Skum** – vask skummet af
 
 Vælg mellem personbil, politibil, ambulance, brandbil, bus og monstertruck, med almindelige hjul eller monsterhjul.
 
