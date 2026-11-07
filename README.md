@@ -7,8 +7,11 @@ Et vaskehal-spil til mobilen. Bilen kører ind dækket af grene, blade og mudder
 3. **Vand** – spul mudderet af
 4. **Børste** – skrub fugleklatterne væk med hurtige swipes frem og tilbage
 5. **Skum** – vask skummet af
+6. **Pynt** – mal bilen og sæt klistermærker på
 
-Vælg mellem personbil, politibil, ambulance, brandbil, bus og monstertruck, med almindelige hjul eller monsterhjul.
+Spillet starter med en intro, hvor monstertrucken kører et loop.
+
+Vælg mellem personbil, sportsvogn, politibil, ambulance, brandbil, bus, monstertruck og gravko, med almindelige hjul, monsterhjul, larvefødder eller enhjørningehjul.
 
 ## Installér på telefonen
 
